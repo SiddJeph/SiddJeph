@@ -1,4 +1,4 @@
-
+<img align="left" alt="GIF" src="cat-jam.gif" width="300" height="300" />
 👋 Hello World! I'm Siddharth Jeph, a passionate student exploring the vast world of technology 🚀. Currently pursuing Btech  at IIT Kharagpur .
 
 🌱 I'm enthusiastic about coding, problem-solving, and building cool things that make a positive impact and I'm always eager to expand my skills.
@@ -7,6 +7,4 @@
 
 🔗 Connect with me! Let's learn, code, and collaborate. Open to new opportunities and always looking to connect with like-minded individuals.
 
-📫 Reach me at siddharthjeph10@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/siddharth-jeph-96601b244/) – I'd love to chat and share experiences!
-
-<img  src="cat-jam.gif" width="200" height="200">
+📫 Reach me at siddharthjeph10@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/siddharth-jeph-96601b244/) – I'd love to chat and share experiences
