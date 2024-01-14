@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="toothless-dancing-toothless.gif" width="270" height="270" />
+<img align="left" alt="GIF" src="toothless-dancing-toothless.gif" width="290" height="290" />
 👋 Hello World! I'm Siddharth Jeph, a passionate student exploring the vast world of technology 🚀. Currently pursuing Btech  at IIT Kharagpur .
 
 🌱 I'm enthusiastic about coding, problem-solving, and building cool things that make a positive impact and I'm always eager to expand my skills.
