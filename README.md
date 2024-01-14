@@ -2,6 +2,7 @@
 👋 Hello World! I'm Siddharth Jeph, a passionate student exploring the vast world of technology 🚀. Currently pursuing Btech  at IIT Kharagpur .
 
 
+
 🌱 I'm enthusiastic about coding, problem-solving, and building cool things that make a positive impact and I'm always eager to expand my skills.
 
 💡 Inquisitive by nature, I love diving into new challenges and turning ideas into reality. Whether it's web development, machine learning, or a creative project, I'm up for the adventure.
